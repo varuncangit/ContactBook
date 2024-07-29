@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\susha_372cihz\\Downloads\\ContactBook-master\\ContactBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00183584-E957-4BBD-A446-C851D5365D94}|ConContactBook\\ConContactBook.csproj|c:\\users\\susha_372cihz\\downloads\\contactbook-master\\contactbook\\concontactbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00183584-E957-4BBD-A446-C851D5365D94}|ConContactBook\\ConContactBook.csproj|solutionrelative:concontactbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\susha_372cihz\\Downloads\\ContactBook-master\\ContactBook\\ConContactBook\\Program.cs",
+              "RelativeDocumentMoniker": "ConContactBook\\Program.cs",
+              "ToolTip": "C:\\Users\\susha_372cihz\\Downloads\\ContactBook-master\\ContactBook\\ConContactBook\\Program.cs",
+              "RelativeToolTip": "ConContactBook\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:45:55.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
